@@ -4,11 +4,12 @@
 
 - 🧕🏼 Sitti | Munirah | Moon
 - 👩🏻‍💻 Software Engineer (Backend | API | AI)
+- IG @mamasukacode
 - 🏠 Singapore
 - 🪄 Hufflepuff
 - 🔭 Recently into: API development, RAG AI, Node.js, GraphQL, MongoDB, React
-- 👯 Actively volunteering for communities like #momintech #techsisters #womenwhocode #womenintech #muslimintech
-- 💬 #freepalestine, spirituality, women in tech, motherhood, generational trauma, gentle parenting, women empowerment !
+- 👯 Actively volunteering for communities like #momintech #techsisters #womenwhocode #womenintech #muslimintech 
+- 💬 #freepalestine, spirituality, women in tech, motherhood, generational trauma, gentle parenting, women empowerment, tech for palestine, no tech for apertheid
 
 Ping me for a coffee chat on [linkedin](https://www.linkedin.com/in/sitti-munirah-abdul-razak/). 
 
