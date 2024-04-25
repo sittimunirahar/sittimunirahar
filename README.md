@@ -1,6 +1,6 @@
-<img width="2015" alt="Screenshot 2024-04-26 at 2 45 26 AM" src="https://github.com/sittimunirahar/sittimunirahar/assets/32325375/91f3ba71-0403-4cae-ae3d-e5f3997310ef">
+<img width="1822" alt="Screenshot 2024-04-26 at 5 54 37 AM" src="https://github.com/sittimunirahar/sittimunirahar/assets/32325375/b8a0b663-e54b-44cf-ad71-5c4c351a10aa">
 
-### Hello World 👋🏼 | سَلَام 🕊 | 🇵🇸 #freepalestine
+## Hello World 👋🏼 | سَلَام 🕊 | 🇵🇸 #freepalestine
 
 - 🧕🏼 Sitti | Munirah | Moon
 - 👩🏻‍💻 Software Engineer (Backend | API | AI)
