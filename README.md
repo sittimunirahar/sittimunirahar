@@ -1,4 +1,4 @@
-<img width="1822" alt="Screenshot 2024-04-26 at 5 54 37 AM" src="https://github.com/sittimunirahar/sittimunirahar/assets/32325375/b8a0b663-e54b-44cf-ad71-5c4c351a10aa">
+<img width="1812" alt="Screenshot 2024-04-26 at 5 54 37 AM" src="https://github.com/sittimunirahar/sittimunirahar/assets/32325375/fa47bc08-7cd1-44bc-bc25-29ba6f3464e7">
 
 ## Hello World 👋🏼 | سَلَام 🕊 | [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
